@@ -1,35 +1,35 @@
-<?xml-stylesheet type="text/xsl" href="mindle-in-lofter.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>mindle-in-lofter.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>mindle-in-lofter.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>mindle-in-lofter.github.io/post/20201023-sex-from-perspective-of-a-man/readme/</loc>
+    <loc>/post/20201023-sex-from-perspective-of-a-man/readme/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>mindle-in-lofter.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>mindle-in-lofter.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
