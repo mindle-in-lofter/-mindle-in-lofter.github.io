@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mindle-in-lofter/mindle-in-lofter.github.io.git
+	branch = main

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: mindle-in-lofter.github.io/sitemap.xml
