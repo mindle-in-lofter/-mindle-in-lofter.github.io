@@ -225,7 +225,25 @@
     </footer>
   </article>
         </div>
-        
+        <div id="comments-gitment"></div>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/default.min.css" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/gitment.browser.min.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      var gitment = new Gitment({
+        id: '2020-10-23 00:00:00 \u002b0000 UTC',
+        title: '一个男性视角下的性',
+        link: decodeURI(location.href),
+        desc: '一个男性视角下的性 by @mindle 2020-10-23 众所周知，这是一个禁忌的话题，但是谁没有对它产生过好奇呢？在这个话题面前，我是脆弱、孤独、敏感和羞耻的，但也是有兴趣',
+        owner: 'mindle-in-lofter',
+        repo: 'mindle-in-lofter.github.io',
+        oauth: {
+          client_id: '370af00360a550cb6d73',
+          client_secret: 'ecee2faaa8b7b2bdba1c75d1053bb0a238545c66'
+        }
+      });
+      gitment.render('comments-gitment');
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://github.com/imsun/gitment">comments powered by gitment.</a></noscript>
 
   
 
